@@ -1,0 +1,4 @@
+This was created using python Python 3.11.7
+An output directory will be auto created to store the output .json file.
+A test CSV file was randomly generated for testing 'test.csv' and placed in the working directory
+Test was successful.
